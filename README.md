@@ -19,4 +19,5 @@
 
 #3.This examples will break in future as websites change and dependencies are updated, so [bug reports and patches](https://bitbucket.org/wswp/code/issues?status=new&status=open) are welcome.
 #4.Discussion
-开源爬虫QQ交流群:322937592 欢迎讨论交流<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=e644359711b3c46298f98f43b75b09f92b83ed354dd5afd25f2e1de07ba80b18"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="数据分析&amp;网络爬虫" title="数据分析&amp;网络爬虫"></a>
+开源爬虫QQ交流群:322937592 
+欢迎讨论交流<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=e644359711b3c46298f98f43b75b09f92b83ed354dd5afd25f2e1de07ba80b18"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="数据分析&amp;网络爬虫" title="数据分析&amp;网络爬虫"></a>
